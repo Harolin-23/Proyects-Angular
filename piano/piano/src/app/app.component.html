@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+  <div class="row d-flex w-100 justify-content-center align-items-center">
+      <div class="col-lg-4">
+        <H1>Piano Gay</H1>
+          
+          <div class="list-group">
+              <a class="list-group-item list-group-item-action" style="background: red;" (click)="PlaySound('note1')">
+                <div class="letter"><p>A</p></div>
+              </a>
+              <a class="list-group-item list-group-item-action" style="background: orange;" (click)="PlaySound('note2')" >
+                <div class="letter"><p>B</p></div>
+              </a>
+              <a class="list-group-item list-group-item-action" style="background: yellow;" (click)="PlaySound('note3')">
+                <div class="letter"><p>C</p></div>
+              </a>
+              <a class="list-group-item list-group-item-action" style="background: green;" (click)="PlaySound('note4')">
+                <div class="letter"><p>D</p></div> 
+              </a>
+              <a class="list-group-item list-group-item-action" style="background: teal;" (click)="PlaySound('note5')">
+                <div class="letter"><p>E</p></div>
+              </a>
+              <a class="list-group-item list-group-item-action" style="background: blue;" (click)="PlaySound('note6')">
+                <div class="letter"><p>F</p></div>
+              </a>
+              <a class="list-group-item list-group-item-action" style="background: purple;" (click)="PlaySound('note7')">
+                <div class="letter"><p>G</p></div>
+              </a>
+          </div>
+      </div>
+  </div>
+
+</body>
+</html>
