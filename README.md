@@ -14,7 +14,6 @@ Este repositorio contiene una colección de proyectos de Angular diseñados para
 - **Descripción:** Una aplicación simple para lanzar dos datos y mostrar el resultado.
 - **Temas tratados:** Componentes, eventos,randomizador, estados.
 
-- 
 ## Proyectos mas avanzados
 
 
