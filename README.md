@@ -5,9 +5,11 @@ Este repositorio contiene una colección de proyectos de Angular diseñados para
 ## Proyectos de Principiante
 
 ### Nivel 1: Principiante
+
 1. **Piano**
 - **Descripción:** Una aplicación simple para tocar notas musicales.
 - **Temas tratados:** Componentes, eventos.
+  
 2. **Lanzar dados**
 - **Descripción:** Una aplicación simple para lanzar dos datos y mostrar el resultado.
 - **Temas tratados:** Componentes, eventos,randomizador, estados.
