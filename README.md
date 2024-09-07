@@ -5,18 +5,15 @@ Este repositorio contiene una colección de proyectos de Angular diseñados para
 ## Proyectos de Principiante
 
 ### 1. Piano
-Una aplicación de piano interactiva que permite a los usuarios tocar notas musicales utilizando el teclado de su computadora.
-
-!Piano
+Una aplicación de piano interactiva que permite a los usuarios tocar notas musicales.
 
 ### 2. Lanzar los Dados
 Una aplicación simple que simula el lanzamiento de dos dados y muestra el resultado en pantalla.
 
-!Lanzar los Dados
-
 ## Próximos Proyectos
-- [ ] Proyecto Intermedio 1
-- [ ] Proyecto Intermedio 2
+
+## Proyectos mas avanzados
+
 
 ¡Mantente atento para más actualizaciones!
 
