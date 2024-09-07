@@ -15,9 +15,6 @@ export class AppComponent {
     audio.src = `../assets/sounds/${sound}.wav` ;
     audio.load();
     audio.play();
-
-
   }
 }
-
 
