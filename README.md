@@ -16,6 +16,9 @@ Este repositorio contiene una colección de proyectos de Angular diseñados para
 
 ## Proyectos mas avanzados
 
+3. **Galeria de imagenes**
+- **Descripción:** Una aplicación simple para ver imagenes.
+- **Temas tratados:** Componentes, eventos,data binding,.
 
 ¡Mantente atento para más actualizaciones!
 
